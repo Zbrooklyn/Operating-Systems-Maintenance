@@ -2,6 +2,34 @@
 
 ### Windows 10 
 
+pakages to install
+```
+choco install vivaldi -y
+choco install powertoys -y
+choco install arduino -y
+choco install easyeda -y
+choco install figma -y
+choco install odrive -y
+choco install obsidian -y
+choco install treesizefree -y
+choco install unity -y
+choco install whatsapp -y
+choco install zoom -y
+```
+download from web
+ - Beeper [Download](https://www.beeper.com/download)
+ - Canva [Download](https://www.canva.com/download/)
+ - EasyEDA [Download](https://easyeda.com/page/download)
+ - ODrive [Download](https://docs.odrive.com/docs/odrive-usage-guide#install-desktop-sync)
+ - Watch Face Studio [Download](https://developer.samsung.com/watch-face-studio/download.html)
+ 
+<details><summary>download from web</summary><p>
+
+</p></details>
+
+
+
+
 <details><summary>pc maintenance</summary>
 <p>
    
@@ -51,15 +79,12 @@ KDE on Raspberry pi [Youtube](https://youtu.be/dh9KfT-IfFg)
 - Fix Wifi: sudo apt purge openresolv dhcpcd5
 
 
-<details><summary>open</summary>
-<p>
-
+<details><summary>open</summary><p>
 #### We can hide anything, even code!
 ```ruby
    puts "Hello World"
 ```
-</p>
-</details>
+</p></details>
 
 
 https://trello.com/c/u5Jyfu1p
