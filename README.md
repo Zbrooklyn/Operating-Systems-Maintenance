@@ -15,6 +15,7 @@ choco install treesizefree -y
 choco install unity -y
 choco install whatsapp -y
 choco install zoom -y
+choco install postman -y
 ```
 download from web
  - Beeper [Download](https://www.beeper.com/download)
