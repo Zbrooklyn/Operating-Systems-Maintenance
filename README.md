@@ -13,3 +13,14 @@ KDE on Raspberry pi [Youtube](https://youtu.be/dh9KfT-IfFg)
 - install raspien liite onto a micro sd card
 - Install KDE with apt: sudo apt install kde-plasma-desktop
 - Fix Wifi: sudo apt purge openresolv dhcpcd5
+
+
+<details><summary>open</summary>
+<p>
+
+#### We can hide anything, even code!
+```ruby
+   puts "Hello World"
+```
+</p>
+</details>
