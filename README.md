@@ -2,6 +2,22 @@
 
 ### Windows 10 
 
+Windows PC Update [Youtube](https://youtu.be/M2mMQfPGZsE), [Learn More](https://christitus.com/install-windows-update-powershell/)
+
+To install Windows updates via PowerShell, you need to install the module first:
+```
+Install-Module PSWindowsUpdate
+Add-WUServiceManager -MicrosoftUpdate
+```
+
+Install all available updates
+```
+Install-WindowsUpdate -MicrosoftUpdate -AcceptAll -AutoReboot | Out-File "C:\($env.computername-Get-Date -f yyyy-MM-dd)-MSUpdates.log" -Force
+```
+
+
+
+
 pakages to install
 ```
 choco install vivaldi -y
@@ -24,6 +40,20 @@ download from web
  - EasyEDA [Download](https://easyeda.com/page/download)
  - ODrive [Download](https://docs.odrive.com/docs/odrive-usage-guide#install-desktop-sync)
  - Watch Face Studio [Download](https://developer.samsung.com/watch-face-studio/download.html)
+ 
+### Update apps
+ using winget
+
+To list all apps avalable (if first time use -y)
+ ```
+ winget upgrade
+```
+To update all
+```
+winget upgrade -h --all
+```
+
+
  
 <details><summary>download from web</summary><p>
 
@@ -68,14 +98,14 @@ Set CPU priority https://www.prnwatch.com/prio/
 
 
 
-Windows 11
+### Windows 11
 
-Ubuntu 
+### Ubuntu 
 
 
 [kde-neon-logo](https://user-images.githubusercontent.com/73963020/211235720-af170b25-625f-4792-9e65-fd4edf76c874.png)
 
-KDE on Raspberry pi [Youtube](https://youtu.be/dh9KfT-IfFg)
+### KDE on Raspberry pi [Youtube](https://youtu.be/dh9KfT-IfFg)
 - install raspien liite onto a micro sd card
 - Install KDE with apt: sudo apt install kde-plasma-desktop
 - Fix Wifi: sudo apt purge openresolv dhcpcd5
