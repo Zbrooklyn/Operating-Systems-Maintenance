@@ -16,6 +16,7 @@ choco install unity -y
 choco install whatsapp -y
 choco install zoom -y
 choco install postman -y
+choco install chirp -y
 ```
 download from web
  - Beeper [Download](https://www.beeper.com/download)
