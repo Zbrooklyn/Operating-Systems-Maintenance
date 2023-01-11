@@ -22,7 +22,7 @@ Install-WindowsUpdate -MicrosoftUpdate -AcceptAll -AutoReboot | Out-File "C:\($e
 
 
 
-pakages to install
+[choco] pakages to install
 ```
 choco install vivaldi -y
 choco install powertoys -y
@@ -37,6 +37,14 @@ choco install whatsapp -y
 choco install zoom -y
 choco install postman -y
 choco install chirp -y
+```
+
+[Winget] pakages to install
+```
+winget install -e --id NovaTechnology.Beeper;
+winget install -e --id Canva.Canva;
+winget install -e --id EasyEDAinc.EasyEDA;
+winget install -e --id OxygenCloud.odrive
 ```
 download from web
  - Beeper [Download](https://www.beeper.com/download)
