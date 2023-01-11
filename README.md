@@ -45,6 +45,8 @@ winget install -e --id NovaTechnology.Beeper;
 winget install -e --id Canva.Canva;
 winget install -e --id EasyEDAinc.EasyEDA;
 winget install -e --id OxygenCloud.odrive
+
+winget install -e --id NovaTechnology.Beeper;winget install -e --id Canva.Canva;winget install -e --id EasyEDAinc.EasyEDA;winget install -e --id OxygenCloud.odrive;winget install -e --id VivaldiTechnologies.Vivaldi;winget install -e --id Microsoft.PowerToys;winget install -e --id ArduinoSA.IDE.stable;winget install -e --id Figma.Figma;winget install -e --id Obsidian.Obsidian;winget install -e --id JAMSoftware.TreeSize.Free;winget install -e --id Unity.UnityHub;winget install -e --id WhatsApp.WhatsApp;winget install -e --id Zoom.Zoom;winget install -e --id Postman.Postman
 ```
 download from web
  - Beeper [Download](https://www.beeper.com/download)
