@@ -22,7 +22,7 @@ Install-WindowsUpdate -MicrosoftUpdate -AcceptAll -AutoReboot | Out-File "C:\($e
 
 
 
-[choco] pakages to install
+[chocolatey] pakages to install [Add More](https://chocolatey.org)
 ```
 choco install vivaldi -y
 choco install powertoys -y
@@ -39,14 +39,23 @@ choco install postman -y
 choco install chirp -y
 ```
 
-[Winget] pakages to install
+[Winget] pakages to install [Add More](https://winget.run)
 ```
+winget install -e --id CHIRP.CHIRP;
 winget install -e --id NovaTechnology.Beeper;
 winget install -e --id Canva.Canva;
 winget install -e --id EasyEDAinc.EasyEDA;
-winget install -e --id OxygenCloud.odrive
-
-winget install -e --id NovaTechnology.Beeper;winget install -e --id Canva.Canva;winget install -e --id EasyEDAinc.EasyEDA;winget install -e --id OxygenCloud.odrive;winget install -e --id VivaldiTechnologies.Vivaldi;winget install -e --id Microsoft.PowerToys;winget install -e --id ArduinoSA.IDE.stable;winget install -e --id Figma.Figma;winget install -e --id Obsidian.Obsidian;winget install -e --id JAMSoftware.TreeSize.Free;winget install -e --id Unity.UnityHub;winget install -e --id WhatsApp.WhatsApp;winget install -e --id Zoom.Zoom;winget install -e --id Postman.Postman
+winget install -e --id OxygenCloud.odrive;
+winget install -e --id VivaldiTechnologies.Vivaldi;
+winget install -e --id Microsoft.PowerToys;
+winget install -e --id ArduinoSA.IDE.stable;
+winget install -e --id Figma.Figma;
+winget install -e --id Obsidian.Obsidian;
+winget install -e --id JAMSoftware.TreeSize.Free;
+winget install -e --id Unity.UnityHub;
+winget install -e --id WhatsApp.WhatsApp;
+winget install -e --id Zoom.Zoom;
+winget install -e --id Postman.Postman
 ```
 download from web
  - Beeper [Download](https://www.beeper.com/download)
