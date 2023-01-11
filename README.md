@@ -72,6 +72,7 @@ download from web
  - EasyEDA [Download](https://easyeda.com/page/download)
  - ODrive [Download](https://docs.odrive.com/docs/odrive-usage-guide#install-desktop-sync)
  - Watch Face Studio [Download](https://developer.samsung.com/watch-face-studio/download.html)
+ - treesize alternative [wiztree]
  
 ### Update apps
  using winget
