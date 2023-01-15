@@ -27,6 +27,7 @@ Install-WindowsUpdate -MicrosoftUpdate -AcceptAll -AutoReboot | Out-File "C:\($e
 choco install vivaldi -y
 choco install powertoys -y
 choco install arduino -y
+choco install arduino --version=1.8.19 -y
 choco install easyeda -y
 choco install figma -y
 choco install odrive -y
