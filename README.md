@@ -55,16 +55,15 @@ winget install -e --id JAMSoftware.TreeSize.Free;
 winget install -e --id Unity.UnityHub;
 winget install -e --id WhatsApp.WhatsApp;
 winget install -e --id Zoom.Zoom;
-winget install -e --id Postman.Postman
-
+winget install -e --id Postman.Postman;
 winget install -e --id ProtonTechnologies.ProtonVPN;
 winget install -e --id Logitech.LGS;
 winget install -e --id RaspberryPiFoundation.RaspberryPiImager;
-winget install -e --id OBSProject.OBSStudio
-winget install -e --id CodeSector.TeraCopy
-
+winget install -e --id OBSProject.OBSStudio;
 winget install -e --id CodeSector.TeraCopy;
-winget install -e --id Rils.TouchPortal
+winget install -e --id CodeSector.TeraCopy;
+winget install -e --id Rils.TouchPortal;
+winget install -e --id Microsoft.PowerAutomateDesktop
 ```
 download from web
  - Beeper [Download](https://www.beeper.com/download)
