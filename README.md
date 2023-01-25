@@ -20,6 +20,10 @@ Install-WindowsUpdate -MicrosoftUpdate -AcceptAll -AutoReboot | Out-File "C:\($e
 ```
 
 
+ Replace Windows Search | [Learn More](https://christitus.com/everything-toolbar) | [GitHub](https://github.com/stnkl/EverythingToolbar) 
+ <br /> Windows Search is slow & unriliable. Everything Search is faster, more efficient, and a better Windows Search. 
+<br /><br />
+
 
 
 [chocolatey] pakages to install [Add More](https://chocolatey.org)
