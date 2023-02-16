@@ -1,7 +1,7 @@
 # Operating-Systems-Maintenance
 ![30684](https://user-images.githubusercontent.com/73963020/211402306-95fb4e51-4777-49d4-9620-ec734a02df30.jpg)
 
-This Utility is desined to help with exsisting and new comuter installs providing recomended tools and maitnance options in a effort to steemline the process and make sure your comuter is running at its best proformance.
+This Utility is desined to help with exsisting and new comuter installs providing recomended tools and maintenance options in a effort to steemline the process and make sure your comuter is running at its best proformance.
 
 
 # Windows 10 
