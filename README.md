@@ -71,6 +71,26 @@ winget install -e --id Rils.TouchPortal;
 winget install -e --id Microsoft.PowerAutomateDesktop
 ```
 
+test table
+<table>
+<tr>
+    <td>Key 1</td>
+    <td>Value 1</td>
+    <td>Key 1</td>
+    <td>Value 1</td>
+	
+</tr>
+<tr>
+    <td>Key 2</td>
+    <td>Value 2</td>
+	 <td>Key 1</td>
+    <td>Value 1</td>
+</tr>
+
+	
+</table>
+
+
 download from web
 | <!-- -->    | <!-- -->    | <!-- -->    |
 |-------------|-------------|-------------|
