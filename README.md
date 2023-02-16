@@ -75,7 +75,6 @@ download from web
 | Beeper [Download](https://www.beeper.com/download)  | Canva [Download](https://www.canva.com/download/) | EasyEDA [Download](https://easyeda.com/page/download) |
 | ------------- | ------------- | ------------ |
 | ODrive [Download](https://docs.odrive.com/docs/odrive-usage-guide#install-desktop-sync)  | Watch Face Studio [Download](https://developer.samsung.com/watch-face-studio/download.html)  | treesize alternative [wiztree] |
-| Content Cell  | Content Cell  | Content Cell |
 
 download from web
  - Beeper [Download](https://www.beeper.com/download)
