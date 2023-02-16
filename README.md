@@ -89,6 +89,11 @@ To update all
 ```
 winget upgrade -h --all
 ```
+or this to include unknown packages
+
+```
+winget upgrade -h --all --include-unknown
+```
 
 ### Chris Titus All in one Tool [Learn More](https://christitus.com/one-tool-for-everything/)
  
