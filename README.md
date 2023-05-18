@@ -155,8 +155,14 @@ To perform a clean boot, type "system configuration" in Search and click the 
 Perform repair system files :	
 Type cmd in the Windows search bar, right-click on the Command Prompt, and run it as an administrator.
 	You must type the commands in their respective order:
-	- DISM.exe /Online /Cleanup-image /Restorehealth
-	- sfc /scannow
+	
+```
+DISM.exe /Online /Cleanup-image /Restorehealth
+```
+	
+```
+sfc /scannow
+```
    
 Please do not include the (.) at the beginning of the command
 Set CPU priority https://www.prnwatch.com/prio/ 
