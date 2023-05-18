@@ -69,8 +69,9 @@ winget install -e --id CodeSector.TeraCopy;
 winget install -e --id CodeSector.TeraCopy;
 winget install -e --id Rils.TouchPortal;
 winget install -e --id Microsoft.PowerAutomateDesktop
+winget install -e --id Dropbox.Dropbox
 ```
-
+https://download.beeper.com/windows/nsis/x64
 
 test table
 <table>
