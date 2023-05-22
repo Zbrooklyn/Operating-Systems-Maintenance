@@ -46,6 +46,7 @@ choco install chirp -y
 
 [Winget] pakages to install [Add More](https://winget.run)
 ```
+winget install -e --id OsirisDevelopment.BatteryBar;
 winget install -e --id CHIRP.CHIRP;
 winget install -e --id NovaTechnology.Beeper;
 winget install -e --id Canva.Canva;
@@ -68,7 +69,7 @@ winget install -e --id OBSProject.OBSStudio;
 winget install -e --id CodeSector.TeraCopy;
 winget install -e --id CodeSector.TeraCopy;
 winget install -e --id Rils.TouchPortal;
-winget install -e --id Microsoft.PowerAutomateDesktop
+winget install -e --id Microsoft.PowerAutomateDesktop;
 winget install -e --id Dropbox.Dropbox
 ```
 https://download.beeper.com/windows/nsis/x64
