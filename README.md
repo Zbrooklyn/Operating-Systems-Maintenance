@@ -70,7 +70,8 @@ winget install -e --id CodeSector.TeraCopy;
 winget install -e --id CodeSector.TeraCopy;
 winget install -e --id Rils.TouchPortal;
 winget install -e --id Microsoft.PowerAutomateDesktop;
-winget install -e --id Dropbox.Dropbox
+winget install -e --id Dropbox.Dropbox;
+winget install -e --id DisruptiveInnovationsSAS.BlueGriffon
 ```
 https://download.beeper.com/windows/nsis/x64
 
