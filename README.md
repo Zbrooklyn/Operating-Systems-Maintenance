@@ -19,6 +19,8 @@ Install all available updates
 Install-WindowsUpdate -MicrosoftUpdate -AcceptAll -AutoReboot | Out-File "C:\($env.computername-Get-Date -f yyyy-MM-dd)-MSUpdates.log" -Force
 ```
 
+Sysinternals Utilities Index [video](https://youtu.be/zjiVqlVTq_8) [Download](https://learn.microsoft.com/en-us/sysinternals/downloads/)
+
 
  Replace Windows Search | [Learn More](https://christitus.com/everything-toolbar) | [GitHub](https://github.com/stnkl/EverythingToolbar) 
  <br /> Windows Search is slow & unriliable. Everything Search is faster, more efficient, and a better Windows Search. 
