@@ -28,7 +28,7 @@ Sysinternals Utilities Index [video](https://youtu.be/zjiVqlVTq_8) [Download](ht
 
 
 
-[chocolatey] pakages to install [Add More](https://chocolatey.org)
+[chocolatey] pakages to install [Add More](https://community.chocolatey.org/packages)
 ```
 choco install vivaldi -y
 choco install powertoys -y
